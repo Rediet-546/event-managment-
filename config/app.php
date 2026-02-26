@@ -53,7 +53,7 @@ return [
         App\Providers\RouteServiceProvider::class,
         
         // Module Service Providers
-        App\Providers\ModuleServiceProvider::class,
+     
 
     ],
 
