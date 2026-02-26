@@ -10,3 +10,4 @@ bootstrap/cache/*
 *.log
 composer.lock
 .env.backup
+.env
